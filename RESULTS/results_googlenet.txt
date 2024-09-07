@@ -1,0 +1,9 @@
+
+
+
+For Learning_Rate : 0.0001 & Epochs : 100   The Result is ->
+OA(Top-1 Accuracy) is: 0.8731642189586115
+AA is: 0.872042751255982
+Top-2 Accuracy is: 0.9799732977303071
+Top-5 Accuracy is: 1.0
+Class wise accuracy: [0.8921568627450981, 0.7781350482315113, 0.8342342342342343, 0.9836448598130841]
